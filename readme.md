@@ -15,8 +15,6 @@ Les données sont ensuite organisées **par catégories** et enregistrées dans 
 - Des fichiers **CSV** contenant les informations textuelles des livres  
 - Des fichiers **JPG** contenant les images correspondantes  
 
----
-
 ## Contexte du projet
 
 L’équipe marketing d’une librairie en ligne souhaite mieux comprendre son catalogue.  
